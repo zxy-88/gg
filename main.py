@@ -1,9 +1,3 @@
+import streamlit as st
 
-print('Hello')
-
-print('Line 4')
-
-print('Line 6')
-
-
-print('Lint 9')
+st.title('Title')
